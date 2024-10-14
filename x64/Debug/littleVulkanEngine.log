@@ -1,3 +1,8 @@
-﻿  main.cpp
+﻿  first_app.cpp
+  first_app.hpp
+  lve_window.cpp
+  main.cpp
+  Generating Code...
+x64\Debug\first_app.obj : warning LNK4042: object specified more than once; extras ignored
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   littleVulkanEngine.vcxproj -> C:\Users\yvyda\source\repos\littleVulkanEngine\x64\Debug\littleVulkanEngine.exe
