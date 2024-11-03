@@ -1,5 +1,6 @@
 ﻿  first_app.cpp
   first_app.hpp
+  lve_pipeline.cpp
   lve_window.cpp
   main.cpp
   Generating Code...
